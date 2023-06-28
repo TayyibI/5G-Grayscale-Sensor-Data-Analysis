@@ -1,7 +1,7 @@
 # 5G-Grayscale-Sensor-Data-Analysis
 Analyzing 5G Grayscale sensor data using mobile net
 
-Was divided into data for different times of day 
+Folders were divided into data for different times of day 
 Presumably, since the initial model was trained on all of them the accuracy is low as the data should have changed according to the time.
 
 This can be deduced as the augmented data only had 2 time slots thus giving a better accuracy
